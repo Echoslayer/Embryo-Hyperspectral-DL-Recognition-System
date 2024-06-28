@@ -1,5 +1,9 @@
 ## Updated log 
 
+- [ ] Grad-CAM & weights gradien analysis
+
+6/28 new train(60 epochs) is overfits, fix attension map, starting Grad-CAM & weights gradien analysis
+
 6/25 save model and save test, normalization bug fixxing -> grad-cam application is not actuallly right -> need fix
 
 6/24 Change directory function from string type to pathlib.Path
