@@ -2,6 +2,8 @@
 
 - [ ] Grad-CAM & weights gradien analysis
 
+7/1 New found: Grad-CAM can't use maxpooling, gradients need to switch to AveragePooling2D.
+
 6/28 new train(60 epochs) is overfits, fix attension map, starting Grad-CAM & weights gradien analysis
 
 6/25 save model and save test, normalization bug fixxing -> grad-cam application is not actuallly right -> need fix
