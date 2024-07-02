@@ -4,7 +4,7 @@
 
 7/2 Retract message: maxpooling can calculate gradients, fix grad-cam bugs, and try two experiments(maxpooling and average pool), add experiment notes(Obsidian).
 
-7/1 New found: Grad-CAM can't use maxpooling, gradients need to switch to AveragePooling2D.
+7/1 ~~New found: Grad-CAM can't use maxpooling, gradients need to switch to AveragePooling2D.~~
 
 6/28 new train(60 epochs) is overfits, fix attension map, starting Grad-CAM & weights gradien analysis
 
